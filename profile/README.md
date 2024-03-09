@@ -10,6 +10,7 @@
 - Сервис для хранения и анализа пользовательских данных (ClickHouse, Kafka, FastAPI, pytest) [Репозиторий](https://github.com/likeinlife-Yandex-Practicum/ugc1)
 - Сервис пользовательского контента (FastAPI, MongoDB, Beanie, pytest) [Репозиторий](https://github.com/likeinlife-Yandex-Practicum/ugc2)
 - Сервис для аутентификации, авторизации (FastAPI, JWT, SQLModel, Jaeger, pytest) [Репозиторий](https://github.com/likeinlife-Yandex-Practicum/auth)
+- Биллинг-сервис [Репозиторий](https://github.com/likeinlife-cinema-project/billing)
 
 # Изученные технологии
 
