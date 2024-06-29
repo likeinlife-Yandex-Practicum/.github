@@ -2,7 +2,7 @@
 
 Проект "Онлайн-кинотеатр"
 
-# Созданные сервисы
+# Сервисы
 
 - ETL для перегрузки данных из PostgreSQL в ElasticSearch (PostgreSQL, ElasticSearch, asyncpg2) [Репозиторий](https://github.com/likeinlife-Yandex-Practicum/postgres-elastic-etl)
 - АПИ для доступа к контенту(фильмы, персоны, жанры) (FastAPI, PostgreSQL, SQLModel, Redis, Jaeger, ELK, pytest) [Репозиторий](https://github.com/likeinlife-Yandex-Practicum/content)
