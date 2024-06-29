@@ -1,6 +1,6 @@
 # Описание
 
-В течение 6 месяцев разрабатывался учебный проект "Онлайн-кинотеатр"
+Проект "Онлайн-кинотеатр"
 
 # Созданные сервисы
 
@@ -12,12 +12,12 @@
 - Сервис для аутентификации, авторизации (FastAPI, JWT, SQLModel, Jaeger, pytest) [Репозиторий](https://github.com/likeinlife-Yandex-Practicum/auth)
 - Биллинг-сервис (Django, DRF, Celery, ELK, JWT, YooKassa) [Репозиторий](https://github.com/likeinlife-cinema-project/billing)
 
-# Изученные технологии
+# Стек
 
 1. Django, DRF, FastAPI
 2. Docker, Docker Compose
 3. ELK (ElasticSearch, Logstash, Kibana)
-4. ElasticSearch (как отдельный сервис)
+4. ElasticSearch
 5. Jaeger
 6. PostgreSQL, MongoDB, SQLite
 7. Kafka
@@ -25,5 +25,5 @@
 9. Redis (кэширование и хранение данных)
 10. pytest
 11. ClickHouse
-12. JWT-токены
-13. ORM: Django, SQLAlchemy, SQLModel(адаптация SQLAlchemy под Pydantic), Beanie (для MongoDB)
+12. JWT
+13. ORM: Django, SQLAlchemy, SQLModel, Beanie
